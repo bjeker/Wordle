@@ -1,2 +1,2 @@
 # Wordle
-Wordle based game made in C#. Built in windows forms with interactive selections and UX/UI design for playability.
+Wordle based game made in C# using .NET. Built in windows forms with interactive selections and UX/UI design for playability.
